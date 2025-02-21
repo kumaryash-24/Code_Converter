@@ -6,7 +6,13 @@
 
 A modern, elegant code conversion tool built with React and TypeScript that transforms code between different programming languages. The application features a beautiful, responsive UI with a focus on user experience and functionality.
 
-## Features
+## 🚀 Live Demo
+
+Experience the application in action: [Code Converter Live Demo](https://neon-pudding-b38154.netlify.app)
+
+[![Code Converter Demo](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&auto=format&fit=crop&q=80)](https://neon-pudding-b38154.netlify.app)
+
+## ✨ Features
 
 - **Multiple Language Support**: Convert code between:
   - Java
@@ -32,7 +38,7 @@ A modern, elegant code conversion tool built with React and TypeScript that tran
   - Clean, maintainable code structure
   - Easy to extend with new languages and features
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React 18
 - TypeScript
@@ -42,7 +48,7 @@ A modern, elegant code conversion tool built with React and TypeScript that tran
 - react-select
 - Lucide React Icons
 
-## Getting Started
+## 🚦 Getting Started
 
 1. Clone the repository
 2. Install dependencies:
@@ -54,7 +60,7 @@ A modern, elegant code conversion tool built with React and TypeScript that tran
    npm run dev
    ```
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 src/
@@ -65,7 +71,7 @@ src/
 └── index.css        # Global styles
 ```
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -73,11 +79,11 @@ src/
 4. Push to the branch
 5. Open a Pull Request
 
-## License
+## 📝 License
 
 MIT License - feel free to use this project for personal or commercial purposes.
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 - Add more programming languages
 - Implement AI-powered code conversion
