@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh0d2tlbnpycWJwdzg4c3JlOG5hdDhhN2tvaGVqazFybmxscjVmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Code Converter GIF">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJ2cXQwdnduOGhrd3B6OXQ2OGQ0czYzc3c3Mmp5c3d5cmh6N3ZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
 </p>
 
 # Code Converter
