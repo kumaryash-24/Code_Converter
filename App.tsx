@@ -9,7 +9,7 @@ import { factorialExamples } from './codeExamples';
 const languages: Language[] = [
   { value: 'java', label: 'Java' },
   { value: 'c', label: 'C' },
-  { value: 'cpp', label: 'C++' },
+  { value: 'cpp', label: 'C++' },  
   { value: 'javascript', label: 'JavaScript' }
 ];
 
