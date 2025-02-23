@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Select from 'react-select';
 import { Light as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { atomOneDark } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import { Code2, Wand2, Terminal, Sparkles, Copy, Check } from 'lucide-react';
+import { Code2, Wand2, Terminal, Sparkles, Copy, Check } from 'lucide-react';   
 import { Language, ConversionResult, CodeSolution } from './types';
 import { factorialExamples } from './codeExamples';
 
