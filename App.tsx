@@ -5,7 +5,7 @@ import { atomOneDark } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import { Code2, Wand2, Terminal, Sparkles, Copy, Check } from 'lucide-react';      
 import { Language, ConversionResult, CodeSolution } from './types';  
 import { factorialExamples } from './codeExamples';   
-
+   
 const languages: Language[] = [   
   { value: 'java', label: 'Java' },
   { value: 'c', label: 'C' },
